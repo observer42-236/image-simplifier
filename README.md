@@ -1,5 +1,5 @@
 # image-simplifier
-Picasso's bulls represent sequence of picture in which the next image is simplified version of previous. The aim is to understand and create algorithm for it.
+Picasso's bulls represent sequence of pictures in which the next image is simplified version of previous. The aim is to understand logic of steps and create algorithm for it.
 
 0 -> 1, 
 6 -> 7
